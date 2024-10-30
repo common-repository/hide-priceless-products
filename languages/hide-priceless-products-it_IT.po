@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hide Priceless Products\n"
+"POT-Creation-Date: 2019-03-07 09:05+0100\n"
+"PO-Revision-Date: 2019-03-07 09:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;-e\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: admin\n"
+"X-Poedit-SearchPath-3: lib\n"
+
+#: admin/hide-priceless-products-admin.php:90
+#: admin/hide-priceless-products-admin.php:102
+msgid "Hide priceless products"
+msgstr "Hide priceless products (Nascondi prodotti senza prezzo)"
+
+#: admin/hide-priceless-products-admin.php:92
+msgid "The following options are used to configure Hide Priceless products"
+msgstr ""
+"Le seguenti impostazioni sono utilizzate per configurare Hide Priceless "
+"Products"
+
+#: admin/hide-priceless-products-admin.php:98
+msgid "Hide products without price"
+msgstr "Nascondere i prodotti senza prezzo"
+
+#: admin/hide-priceless-products-admin.php:99
+msgid "This will automatically hide the product without assigned price"
+msgstr "Questo nasconderà automaticamente i prodotti senza prezzo assegnato"
+
+#: admin/hide-priceless-products-admin.php:109
+#: admin/hide-priceless-products-admin.php:128
+msgid "Categories to keep"
+msgstr "Categorie da mantenere"
+
+#: admin/hide-priceless-products-admin.php:110
+#: admin/hide-priceless-products-admin.php:129
+msgid "Select the product categories you want to keep visible"
+msgstr ""
+"Selezionare le categorie di prodotti che si desidera mantenere visibili"
+
+#: admin/hide-priceless-products-admin.php:120
+msgid "Hide products which price is set to 0"
+msgstr "Nascondi prodotti il cui prezzo è fissato a 0"
+
+#: admin/hide-priceless-products-admin.php:121
+msgid "This will automatically hide the product which price is set to 0"
+msgstr ""
+"Questo nasconde automaticamente i prodotti il cui prezzo è impostato a 0"
+
+#: admin/hide-priceless-products-admin.php:124
+msgid "Hide product with a price of 0"
+msgstr "Nascondi prodotto con un prezzo di 0"

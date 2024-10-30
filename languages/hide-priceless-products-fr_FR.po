@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hide Priceless Products\n"
+"POT-Creation-Date: 2019-03-07 09:04+0100\n"
+"PO-Revision-Date: 2019-03-07 11:04+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;-e\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/hide-priceless-products-admin.php:90
+#: admin/hide-priceless-products-admin.php:102
+msgid "Hide priceless products"
+msgstr "Masquer les produits sans prix"
+
+#: admin/hide-priceless-products-admin.php:92
+msgid "The following options are used to configure Hide Priceless products"
+msgstr "Les options suivantes sont utilisées pour configurer Hide Priceless Products"
+
+#: admin/hide-priceless-products-admin.php:98
+msgid "Hide products without price"
+msgstr "Cacher les produits sans prix"
+
+#: admin/hide-priceless-products-admin.php:99
+msgid "This will automatically hide the product without assigned price"
+msgstr "Ceci masquera automatiquement le produit sans prix assigné"
+
+#: admin/hide-priceless-products-admin.php:109
+#: admin/hide-priceless-products-admin.php:128
+msgid "Categories to keep"
+msgstr "Catégories à conserver"
+
+#: admin/hide-priceless-products-admin.php:110
+#: admin/hide-priceless-products-admin.php:129
+msgid "Select the product categories you want to keep visible"
+msgstr "Les produits appartenant à ces catégorie seront affichés"
+
+#: admin/hide-priceless-products-admin.php:120
+msgid "Hide products which price is set to 0"
+msgstr "Masquer les produits dont le prix est fixé à 0"
+
+#: admin/hide-priceless-products-admin.php:121
+msgid "This will automatically hide the product which price is set to 0"
+msgstr "Ceci masquera automatiquement le produit dont le prix est fixé à 0"
+
+#: admin/hide-priceless-products-admin.php:124
+msgid "Hide product with a price of 0"
+msgstr "Cacher les produits dont le prix est 0"

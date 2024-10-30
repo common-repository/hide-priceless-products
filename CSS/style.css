@@ -1,0 +1,15 @@
+.woocommerce_page_wc-settings select#pricelesscategoriesmultiselect,
+.woocommerce_page_wc-settings select#zerocategoriesmultiselect {
+    height: 100px;
+}
+
+.pricelesscategoriesvisible,
+.zerocategoriesvisible{
+    display: table-row;
+}
+
+tr.pricelesscategoriesnotvisible,
+tr.zerocategoriesnotvisible {
+
+    display:none;
+}
